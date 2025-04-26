@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+body {
+    margin: 30px;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #333;
+    text-align: center;
+}
+
+input[type="button"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
